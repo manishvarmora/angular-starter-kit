@@ -50,8 +50,8 @@ src/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_GITHUB_USERNAME/angular-hybrid-boilerplate.git
-cd angular-hybrid-boilerplate
+git clone https://github.com/manishvarmora/angular-starter-kit.git
+cd angular-starter-kit
 
 # 2. Install dependencies
 npm install

@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { CapitalizePipe } from './shared/pipes/capitalize.pipe';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet,CapitalizePipe],
+  imports: [RouterOutlet],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
